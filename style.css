@@ -100,5 +100,7 @@ footer {
     font-size: 20px;
 }
 .head_img {
+       display: flex;
     width: 100%;
+    justify-content: space-around;
 }
