@@ -52,12 +52,12 @@
                 <article class="principle">
                     <img src="/uploads/2021/02/truck-1918551_640_0_1612518875.png" width="80px" height="50px"/>
                     <p> Доставка по всій Україні <p>
-                    </article>
+                    
                 <article class="principle">
                     <img src="/uploads/2021/02/icons-1831923_640_0_1612518875.png" width="50px" height="50px"/>
                     <p> Бескоштовна консультація </p>
                       </article>
-            </section>
+           
             <article class="slogan">
                 <div class="slogan_img">
                     <img src="/uploads/2021/02/cat-312290_1280%201_0_1612539485.png" width="70px"/>
@@ -66,10 +66,10 @@
                     <p>Ваші улюбленці полюблять наш магазин!</p>
                 </div>
             </article>
-        </main>
+     
         <footer>
             <p>Ел.пошта: zoomagazin@gmail.com</p>
             <p>Телефон:</p>
-        </footer>
+       
     </body>
 </html>
