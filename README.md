@@ -71,6 +71,5 @@
             <p>Ел.пошта: zoomagazin@gmail.com</p>
             <p>Телефон: 
                 098-561-603 </p>
-       
     </body>
 </html>
