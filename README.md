@@ -47,7 +47,7 @@
             <section class="principles">
                 <article class="principle">
                     <img src="/uploads/2021/02/chemistry-2389151_640_0_1612518875.png" width="50px" height="50px"/>
-                    <p> Нашы продукти проходять експертизи </p>
+                    <p> Наші продукти проходять експертизи </p>
                      </article>
                 <article class="principle">
                     <img src="/uploads/2021/02/truck-1918551_640_0_1612518875.png" width="80px" height="50px"/>
