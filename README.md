@@ -46,7 +46,7 @@
             <h2 id="principles">Наші принципи</h2>
             <section class="principles">
                 <article class="principle">
-                    <img src="https://img.freepik.com/free-photo/female-doctor-working-with-vacine_624325-648.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais"height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/female-doctor-working-with-vacine_624325-648.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais"height="100px"/>
                     <p> Наші продукти проходять експертизи </p>
                      </article>
                 <article class="principle">
