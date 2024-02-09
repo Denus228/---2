@@ -46,7 +46,7 @@
             <h2 id="principles">Наші принципи</h2>
             <section class="principles">
                 <article class="principle">
-                    <img src="https://img.freepik.com/free-photo/female-doctor-working-with-vacine_624325-648.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais" height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/female-doctor-working-with-vacine_624325-648.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais"height="100px"/> <br/>
                     <p> Наші продукти проходять експертизи </p>
                      </article>
                 <article class="principle">
@@ -70,5 +70,18 @@
             <p>Ел.пошта: zoomagazin@gmail.com</p>
             <p>Телефон: 
                 098-561-603 </p>
+                <table style="border:1px solid blue;">
+                    <tr>
+                        <td style="border:1px solid blue;">Ціна всіх товарів</td>
+                    </tr>
+                    <tr>
+                        <td style="border:1px solid blue;">Ліки 150 Гривень</td>
+                        <td style="border:1px solid blue;">Корм 300 Гривень 1 кілограм</td>
+                        <td style="border:1px solid blue;">Іграшки 50 Гривень 1 шт</td>
+                        <td style="border:1px solid blue;">Будиночкі 1000 Гривень 1 шт</td>
+                        <td style="border:1px solid blue;">Грумінг 200 Гривень</td>
+                    </tr>
+                </table>
+</table>
     </body>
 </html>
