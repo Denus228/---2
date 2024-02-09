@@ -82,6 +82,4 @@
                         <td style="border:1px solid blue;">Грумінг 200 Гривень</td>
                     </tr>
                 </table>
-</table>
-    </body>
-</html>
+   
