@@ -19,34 +19,34 @@
             <h2 id="catalog">Каталог</h2>
             <section class="catalog">
                 <article class="product">
-                    <img src="https://www.istockphoto.com/photo/dry-pet-food-gm1131841641-299825912?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25BA%25D0%25BE%25D1%2580%25D0%25BC%2F&utm_term=%D0%BA%D0%BE%D1%80%D0%BC" height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/top-view-over-pet-accessories_23-2150930456.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=sph" height="100px"/><br/>
                     <a href="">Корм</a>
                 </article>
                 <article class="product">
-                    <img src="https://www.istockphoto.com/photo/closeup-portrait-of-dog-holding-toy-rubber-bone-outdoors-gm1477729392-506183929?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25B8%25D0%25B3%25D1%2580%25D1%2583%25D1%2588%25D0%25BA%25D0%25B8%2520%25D0%25B4%25D0%25BB%25D1%258F%2520%25D1%2581%25D0%25BE%25D0%25B1%25D0%25B0%25D0%25BA%2F&utm_term=%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%B1%D0%B0%D0%BA" height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/high-angle-box-with-yarns-and-cute-dog_23-2149303908.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais" height="100px"/><br/>
                     <a href="">Іграшки</a>
                 </article>
                 <article class="product">
-                    <img src="https://www.istockphoto.com/photo/dog-in-contemporary-living-room-with-dog-house-gm1442960154-482109256?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B0%2520%25D0%25B4%25D0%25BB%25D1%258F%2520%25D1%2581%25D0%25BE%25D0%25B1%25D0%25B0%25D0%25BA%2F&utm_term=%D0%B4%D0%BE%D0%BC%D0%B0+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%B1%D0%B0%D0%BA" height="100px"/><br/>
+                    <img src="https://img.freepik.com/premium-photo/pink-cartoon-dog-house-mockup-duotone-on-a-blue-background-3d-rendering_476612-17432.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais" height="100px"/><br/>
                     <a href="">Будиночки</a>
                 </article>
                 <article class="product">
-                    <img src="https://pixabay.com/ru/illustrations/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0-%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC-%D0%B3%D1%80%D1%83%D0%BC%D0%B8%D0%BD%D0%B3-990304/" height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/beautiful-pet-portrait-of-dog_23-2149218454.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais" height="100px"/><br/>
                     <a href="">Грумінг</a>
                 </article>
                 <article class="product">
-                    <img src="https://pixabay.com/ru/photos/%D1%82%D1%80%D0%B0%D0%B2%D1%8B-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-906140/" height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/close-up-on-veterinarian-taking-care-of-pet_23-2149143889.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais" height="100px"/><br/>
                     <a href="">Ветпрепарати</a>
                 </article>
                 <article class="product">
-                    <img src="https://www.istockphoto.com/photo/open-book-outdoors-reading-gm1369996962-439648067?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25BA%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B8%2F&utm_term=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8" height="100px"/><br/>
+                    <img src="https://img.freepik.com/free-photo/high-angle-book-and-flowers-arrangement_23-2149871488.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais" height="100px"/><br/>
                     <a href="">Корисні книги</a>
                 </article>
             </section>
             <h2 id="principles">Наші принципи</h2>
             <section class="principles">
                 <article class="principle">
-                    <img src="https://pixabay.com/ru/photos/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF-%D0%B3%D0%BE%D1%80%D0%BA%D0%B0-275984/"><br/>
+                    <img src="https://img.freepik.com/free-photo/female-doctor-working-with-vacine_624325-648.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=ais"height="100px"/> <br/>
                     <p> Наші продукти проходять експертизи </p>
                      </article>
                 <article class="principle">
@@ -59,7 +59,7 @@
            
             <article class="slogan">
                 <div class="slogan_img">
-                    <img src="https://www.istockphoto.com/photo/isolated-on-white-gm1217841004-355643723?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25BA%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B8%2F&utm_term=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8" width="70px"/>
+                    <img src="https://img.freepik.com/free-photo/beautiful-kitten-with-colorful-clouds_23-2150752964.jpg?size=626&ext=jpg&ga=GA1.1.630016251.1707503832&semt=sph" width="70px"/>
                 </div>
                  <div class="slogan_text">
                     <p>Ваші улюбленці полюблять наш магазин!</p>
