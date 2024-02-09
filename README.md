@@ -59,7 +59,7 @@
            
             <article class="slogan">
                 <div class="slogan_img">
-                    <img src="/uploads/2021/02/cat-312290_1280%201_0_1612539485.png" width="70px"/>
+                    <img src="https://www.istockphoto.com/photo/isolated-on-white-gm1217841004-355643723?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25BA%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B8%2F&utm_term=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8" width="70px"/>
                 </div>
                  <div class="slogan_text">
                     <p>Ваші улюбленці полюблять наш магазин!</p>
