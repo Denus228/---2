@@ -54,8 +54,7 @@
                     <p> Доставка по всій Україні <p>
                     
                 <article class="principle">
-                    <img src=""height="100px"/></br>
-                    <p> Бескоштовна консультація </p>
+                    
                       </article>
            
             <article class="slogan">
