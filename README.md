@@ -46,7 +46,7 @@
             <h2 id="principles">Наші принципи</h2>
             <section class="principles">
                 <article class="principle">
-                    <img src="https://pixabay.com/ru/photos/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF-%D0%B3%D0%BE%D1%80%D0%BA%D0%B0-275984/"height="100px"/><br/>
+                    <img src="https://pixabay.com/ru/photos/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF-%D0%B3%D0%BE%D1%80%D0%BA%D0%B0-275984/">height="100px"/><br/>
                     <p> Наші продукти проходять експертизи </p>
                      </article>
                 <article class="principle">
