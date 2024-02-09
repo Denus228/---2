@@ -19,34 +19,34 @@
             <h2 id="catalog">Каталог</h2>
             <section class="catalog">
                 <article class="product">
-                    <img src="/uploads/2021/02/cat-2170495_1920_0_1612513261.jpg" height="100px"/><br/>
+                    <img src="https://www.istockphoto.com/photo/dry-pet-food-gm1131841641-299825912?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25BA%25D0%25BE%25D1%2580%25D0%25BC%2F&utm_term=%D0%BA%D0%BE%D1%80%D0%BC" height="100px"/><br/>
                     <a href="">Корм</a>
                 </article>
                 <article class="product">
-                    <img src="/uploads/2021/02/colorful-2822922_1920_0_1612513261.jpg" height="100px"/><br/>
+                    <img src="https://www.istockphoto.com/photo/closeup-portrait-of-dog-holding-toy-rubber-bone-outdoors-gm1477729392-506183929?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25B8%25D0%25B3%25D1%2580%25D1%2583%25D1%2588%25D0%25BA%25D0%25B8%2520%25D0%25B4%25D0%25BB%25D1%258F%2520%25D1%2581%25D0%25BE%25D0%25B1%25D0%25B0%25D0%25BA%2F&utm_term=%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%B1%D0%B0%D0%BA" height="100px"/><br/>
                     <a href="">Іграшки</a>
                 </article>
                 <article class="product">
-                    <img src="/uploads/2021/02/kennels-for-pets-3821861_1920_0_1612513262.jpg" height="100px"/><br/>
+                    <img src="https://www.istockphoto.com/photo/dog-in-contemporary-living-room-with-dog-house-gm1442960154-482109256?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25B4%25D0%25BE%25D0%25BC%25D0%25B0%2520%25D0%25B4%25D0%25BB%25D1%258F%2520%25D1%2581%25D0%25BE%25D0%25B1%25D0%25B0%25D0%25BA%2F&utm_term=%D0%B4%D0%BE%D0%BC%D0%B0+%D0%B4%D0%BB%D1%8F+%D1%81%D0%BE%D0%B1%D0%B0%D0%BA" height="100px"/><br/>
                     <a href="">Будиночки</a>
                 </article>
                 <article class="product">
-                    <img src="/uploads/2021/02/hair-clip-4344802_1920_0_1613139580.png" height="100px"/><br/>
+                    <img src="https://pixabay.com/ru/illustrations/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0-%D0%B2%D0%B0%D0%BD%D0%BD%D0%B0-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC-%D0%B3%D1%80%D1%83%D0%BC%D0%B8%D0%BD%D0%B3-990304/" height="100px"/><br/>
                     <a href="">Грумінг</a>
                 </article>
                 <article class="product">
-                    <img src="/uploads/2021/02/chemistry-575651_1280_0_1613139577.png" height="100px"/><br/>
+                    <img src="https://pixabay.com/ru/photos/%D1%82%D1%80%D0%B0%D0%B2%D1%8B-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D0%B5%D0%B2%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-906140/" height="100px"/><br/>
                     <a href="">Ветпрепарати</a>
                 </article>
                 <article class="product">
-                    <img src="/uploads/2021/02/book-2022464_1280_0_1613139580.png" height="100px"/><br/>
+                    <img src="https://www.istockphoto.com/photo/open-book-outdoors-reading-gm1369996962-439648067?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fru%2Fimages%2Fsearch%2F%25D0%25BA%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B8%2F&utm_term=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8" height="100px"/><br/>
                     <a href="">Корисні книги</a>
                 </article>
             </section>
             <h2 id="principles">Наші принципи</h2>
             <section class="principles">
                 <article class="principle">
-                    <img src="/uploads/2021/02/chemistry-2389151_640_0_1612518875.png" width="50px" height="50px"/>
+                    <img src="https://pixabay.com/ru/photos/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF-%D0%B3%D0%BE%D1%80%D0%BA%D0%B0-275984/"height="100px"/><br/>
                     <p> Наші продукти проходять експертизи </p>
                      </article>
                 <article class="principle">
@@ -54,7 +54,7 @@
                     <p> Доставка по всій Україні <p>
                     
                 <article class="principle">
-                    <img src="/uploads/2021/02/icons-1831923_640_0_1612518875.png" width="50px" height="50px"/>
+                    <img src="https://pixabay.com/ru/vectors/%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-5808573/"height="100px"/><br/>
                     <p> Бескоштовна консультація </p>
                       </article>
            
