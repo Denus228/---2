@@ -3,7 +3,7 @@
         <header>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDjQCh5fUd_Y1ur2U15wk5FQw7DAowfNQaCaxMrHODN0tCs5yPNJpANeb5ZpZIKWlVKDk&usqp=CAU" height="100px"/>
             <nav>
-                <a href="">Головна</a>
+                <a href="contacts.html">Головна</a>
                 <a href="#catalog">Каталог</a>
                 <a href="">Магазини</a>
                 <a href="">Акції та знижки</a>
