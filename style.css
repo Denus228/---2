@@ -104,12 +104,16 @@ footer {
     width: 100%;
     justify-content: space-around;
 }
-.productdi }
+.product }
 display:flex
 padding:100%
 
 {
-
+.mardown-body h2 {
+    padding-bottom: 0.3em;
+    font-size:1.5em;
+    border-bottom: 1px solid dark;
+}
 
 
 
