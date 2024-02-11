@@ -106,7 +106,10 @@ footer {
 }
 .product }
 display:flex
-padding:100%
+widht:100%;
+padding:10px;
+    justify-content: flex-end;
+text-align: center;
 
 {
 .mardown-body h2 {
