@@ -1,6 +1,7 @@
 <html>
     <body>
         <header>
+            <foter>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDjQCh5fUd_Y1ur2U15wk5FQw7DAowfNQaCaxMrHODN0tCs5yPNJpANeb5ZpZIKWlVKDk&usqp=CAU" height="100px"/>
             <nav>
                 <a href="contacts.html">Головна</a>
@@ -77,9 +78,12 @@
                 </div>
             </article>
      
-        <footer>
+       
             <p>Ел.пошта: zoomagazin@gmail.com</p>
             <p>Телефон: 
                 098-561-603 </p>
+                </foter>
+                </body<
+                </html>
                 
    
